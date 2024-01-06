@@ -1,0 +1,4 @@
+Electronics Product: productID=ded productName=ded numberOfAvailableItem=2 productPrice=2.0 brand=ewe warrantyPeriod=1
+Electronics Product: productID=ded productName=dsw numberOfAvailableItem=2 productPrice=2.0 brand=w warrantyPeriod=1
+Clothing Product: productID=dewd productName=dewd numberOfAvailableItem=2 productPrice=2.0 Size=2.0 Color=dwe
+Clothing Product: productID=dwd productName=wsd numberOfAvailableItem=3 productPrice=2.0 Size=2.0 Color=sw
